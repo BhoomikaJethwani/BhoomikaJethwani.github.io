@@ -132,6 +132,14 @@ body {
 	opacity: 1;
 }
 
+.bg-color-custom-max {
+    background-color: #B8FFE2; /* Replace with your desired color code */
+}
+
+.bg-color-custom-min {
+    background-color: #FFC0CB; /* Replace with your desired color code */
+}
+
 /* 03. PRELOADER
 =================================================*/
 
