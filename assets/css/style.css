@@ -140,6 +140,11 @@ body {
     background-color: #FFC0CB; /* Replace with your desired color code */
 }
 
+.tag {
+  display: inline-block;
+  margin-right: 10px; /* Adjust as needed for spacing between tags */
+}
+
 /* 03. PRELOADER
 =================================================*/
 
