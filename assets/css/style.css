@@ -795,10 +795,108 @@ body {
 	padding: 90px 0 80px;
 	background: #fff;
 }
+
+
+/*  WORK
+=================================================*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+#work {
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background-color: #f7f8fc;
+  font-family: "Roboto", sans-serif;
+  color: #10182f;
+}
+#work h4{
+	margin-top: 10px;
+	text-align: start;
+}
+#work .container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 1070;
+}
+#work .card {
+  margin: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 340px;
+}
+#work .card-header img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+#work .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+
+}
+#space{
+	margin-right: 0.9%;
+}
+#work .tag {
+  background: #cccccc;
+  border-radius: 50px;
+  font-size: 12px;
+  margin: 0;
+  color: #fff;
+  padding: 2px 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+#work .tag-teal {
+  background-color: #47bcd4;
+}
+#work .tag-purple {
+  background-color: #f3b530;
+}
+#work .tag-pink {
+  background-color: #cd5b9f;
+}
+
+#work .card-body p {
+  font-size: 13px;
+  margin: 0 0 40px;
+}
+#work .user {
+  display: flex;
+  margin-top: auto;
+}
+
+#work .user img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+#work .user-info h5 {
+  margin: 0;
+}
+#work .user-info small {
+  color: #545d7a;
+}
+
+/* .project_title{
+	font-family:cursive;
+
+} */
+
 #work {
 	padding: 90px 0 80px;
 	background: #fff;
 }
+/* ___________________________________*/
 
 #port-image .mix {
 	display: none;
