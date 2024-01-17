@@ -796,6 +796,10 @@ body {
 	background: #fff;
 }
 
+#port-image .mix {
+	display: none;
+}
+
 
 /*  WORK
 =================================================*/
@@ -896,15 +900,14 @@ body {
 	padding: 90px 0 80px;
 	background: #fff;
 }
-/* ___________________________________*/
-
-#port-image .mix {
-	display: none;
-}
-
 #port-image2 .mix {
 	display: none;
 }
+/* ___________________________________*/
+
+
+
+
 
 .filter {
 	position: relative;
