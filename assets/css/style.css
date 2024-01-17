@@ -132,12 +132,16 @@ body {
 	opacity: 1;
 }
 
-.bg-color-custom-max {
-    background-color: #B8FFE2; /* Replace with your desired color code */
+.bg-color-custom-col1 {
+    background-color: #DBCDF0; /* Replace with your desired color code */
 }
 
-.bg-color-custom-min {
-    background-color: #FFC0CB; /* Replace with your desired color code */
+.bg-color-custom-col2 {
+    background-color: #967bb6; /* Replace with your desired color code */
+}
+
+.bg-color-custom-col3 {
+    background-color: #F7D9C4; /* Replace with your desired color code */
 }
 
 .tag {
