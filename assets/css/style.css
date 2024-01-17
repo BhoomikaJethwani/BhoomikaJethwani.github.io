@@ -795,8 +795,16 @@ body {
 	padding: 90px 0 80px;
 	background: #fff;
 }
+#work {
+	padding: 90px 0 80px;
+	background: #fff;
+}
 
 #port-image .mix {
+	display: none;
+}
+
+#port-image2 .mix {
 	display: none;
 }
 
